@@ -15,12 +15,12 @@
  
 <br/> 
  
-Just download the `Downloads.zip` file or `git clone https://github.com/InvisiblePro/AI_Security.git` and install all requirements from `requirements.txt` using `pip install -r requirements.txt` and get your model ready!..
+Just download the `Downloads.zip` file or `git clone https://github.com/InvisiblePro/AI_Security.git` and install all requirements from `startup.bat` file and get your model ready!..
 <br/>
 
 ### Steps to follow:-
 
-1. First install all pre-requirements using these command-- `pip install -r requirements.txt`.
+1. First install all pre-requirements using these command-- `startup.bat`.
 
 2. After installing all modules, first run `data_collector.py` which ask `Face ID:` you can set it as 0,1,2,3.... then a pop-up window opens and starts capturing your face pictures.
 
