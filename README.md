@@ -6,8 +6,9 @@
 
 > Moudules reuired:
  
-    -opencv-contrib-python==4.5.5.64**
+    -opencv-contrib-python**
     -os*
+    -pillow
  
  *os module is pre-installed with python
  <br/>
