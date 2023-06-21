@@ -9,7 +9,7 @@
     -opencv-contrib-python**
     -pillow
  <br/>
- **specially recommended to use `opencv-contrib-python`, plz don't use `opencv-python`; if you have `opencv-python` plz do uninstall it first!
+ **specially recommended to use `opencv-contrib-python` , plz don't use `opencv-python` ; if you have `opencv-python` plz do uninstall it first!
  
 <br/> 
  
