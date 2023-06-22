@@ -13,7 +13,7 @@
  
 <br/> 
  
-Just download the `Downloads.zip` file or `git clone https://github.com/InvisiblePro/AI_Security.git` and install all requirements from `startup.bat` file and get your model ready!..
+Just download the `Downloads.zip` file or `[git clone https://github.com/InvisiblePro/AI_Security.git](https://github.com/InvisiblePro/AI_Face_Recognition.git)` and install all requirements from `startup.bat` file and get your model ready!..
 <br/>
 
 ### Steps to follow:-
