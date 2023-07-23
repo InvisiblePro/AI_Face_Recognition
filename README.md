@@ -6,12 +6,11 @@
 
 > Moudules reuired:
  
-    -opencv-contrib-python**
+    -opencv-contrib-python
     -pillow
  <br/>
- **specially recommended to use `opencv-contrib-python` , plz don't use `opencv-python` ; if you have `opencv-python` plz do uninstall it first!
  
-<br/> 
+ 
  
 Just download the `Downloads.zip` file or `(https://github.com/InvisiblePro/AI_Face_Recognition.git)` and install all requirements from `startup.bat` file and get your model ready!..
 <br/>
