@@ -1,8 +1,9 @@
 # AI_Face_Recognition    [![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)](https://www.python.org/)
 
 ### This is an AI based project which specifically on `Computer Vision` domain.
+Must read [Security.MD](https://github.com/InvisiblePro/AI_Face_Recognition/blob/master/SECURITY.md) and [LICENSE](https://github.com/InvisiblePro/AI_Face_Recognition/blob/master/LICENSE)
 
-### _This Repository contains program which detects faces from its database and keeps record in "output_data" folder._
+#### _This Repository contains program which detects faces from its database and keeps record in "output_data" folder._
 
 > Moudules reuired:
  
